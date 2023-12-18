@@ -1,1 +1,1 @@
-*Linear Regression*
+<b>Linear Regression<\b>
