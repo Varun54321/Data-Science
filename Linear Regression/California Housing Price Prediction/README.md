@@ -1,7 +1,7 @@
-<h1><b>Linear Regression Project: California Housing Price Prediction
+<h1><b>Linear Regression Project: California Housing Price Prediction</b></h1>
 A real estate agent and wants some help predicting housing prices for california. Task is to create a model for her that allows to put in a few features of a house and returns back an estimate of what the house would sell for. I decided that Linear Regression might be a good path to solve this problem! The agent gives some information about a bunch of houses in regions of the United States,it is all in the data set: ("California_Housing.csv").
 
-<h3><b>The data contains the following columns:
+<h3><b>The data contains the following columns:</b></h3>
 longitude (signed numeric - float) : Longitude value for the block in California, USA
 
 latitude (numeric - float ) : Latitude value for the block in California, USA
