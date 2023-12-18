@@ -1,1 +1,1 @@
-<h1><b>Linear Regression 
+<h1><b>Linear Regression</b></>h1
